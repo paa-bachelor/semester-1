@@ -17,18 +17,26 @@ cd - change the directory
 
 ## EDITING FILES
 
-cat <file> - read file
+cat - read file
 
-nano <file> - edit file
+	<file>	print file in terminal
 
-feh <image.png> - show image
+nano - edit file
 
-python <python.py> - run python file
+	<file> open file in nano editor
 
-jupyter lab <notebook.ipynb> - open jupyter notebook locally
+feh - view image
+
+python - run python file
+
+jupyter lab - open jupyter notebook locally
 
 ## GIT COMMANDS
 
-git clone https://github.com/<user name>/<repository name> - create copy of repository on your system
+git clone - create copy of repository on your system
 
-git pull origin <branch> - update repository on your system
+	https://github.com/<user name>/<repository name>
+
+git pull origin 
+
+	<branch>	update repository on your system
