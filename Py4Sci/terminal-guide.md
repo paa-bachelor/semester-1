@@ -5,38 +5,45 @@ Co-Author: Barack-O-Llama
 
 ## NAVIGATING THE TERMINAL
 
-ls - show objects in current directory
+ls | show files/subdirectories in current directory
 
-	[-a] - show hidden folders
+	ls | show visible files/subdirectories
+        ls -a | show all files/subdirectories
 
-cd - change the directory
+cd | change the directory
 
-	<> - go to root directory
-	<..> - go to parent directory
-	<directory> - go to input directory
+	cd | go to root directory
+	cd .. | go to parent directory
+	cd <directory> | go to input directory
 
 ## EDITING FILES
 
-cat - read file
+cat | read file
 
-	<file> - print file in terminal
+	cat <file> | print file in terminal
 
-nano - edit file
+nano | edit file
 
-	<file> - open file in nano editor
+	nano <file>
 
-feh - view image
+feh | view image
 
-python - run python file
+        feh <file>
 
-jupyter lab - open jupyter notebook locally
+python | run python file
+
+        python <file.py>
+
+jupyter lab | open jupyter lab locally
+
+        jupyter lab
 
 ## GIT COMMANDS
 
-git clone - create copy of repository on your system
+git clone | create copy of repository on your system
 
-	https://github.com/<user name>/<repository name>
+	git clone https://github.com/<user>/<repository>
 
-git pull origin 
+git pull origin | update repository on your system
 
-	<branch> - update repository on your system
+	git pull origin <branch>
