@@ -1,4 +1,12 @@
 # Numpy Guide
+## METHODS
+
+_np.pi_ returns pi
+
+_np.sqrt(x)_ returns the square root of x
+
+_np.roots(sequence1)_ returns an array of solutions to a polynomial which is defined by sequence1, where sequence1 is a sequence of descending coefficients of the polynomial
+
 ## ARRAYS
 [**ARRAY CREATION**]
 
@@ -35,3 +43,19 @@ _array1.reshape(tuple1)_ returns array1 as an array with the shape given by tupl
 _array1.T_ returns the transpose of array1(columns and rows have been swapped)
 
 _np.split(array1,x)_ returns a list of x(int) arrays, where array1 has been splitted up into said arrays(only works if len(array1)|x)
+
+## INDEXING
+
+[**ONE-DIMENSIONAL INDEXING**]
+
+
+
+[**N-DIMENSIONAL INDEXING**]
+
+
+
+
+[**BOOLEAN INDEXING**]
+
+
+
