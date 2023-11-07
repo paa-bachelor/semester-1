@@ -8,7 +8,7 @@ Co-Author: Barack-O-Llama
 ls | show files/subdirectories in current directory
 
 	ls | show visible files/subdirectories
-        ls -a | show all files/subdirectories
+	ls -a | show all files/subdirectories
 
 cd | change the directory
 
@@ -28,15 +28,15 @@ nano | edit file
 
 feh | view image
 
-        feh <file>
+	feh <file>
 
 python | run python file
 
-        python <file.py>
+	python <file.py>
 
 jupyter lab | open jupyter lab locally
 
-        jupyter lab
+	jupyter lab
 
 ## GIT COMMANDS
 
