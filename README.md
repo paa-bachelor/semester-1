@@ -8,3 +8,5 @@ Current courses:
   4. [Kwantummechanica 1](Quantum-physics-I) 
   5. [Statistiek en gegevensverwerking](Statistiek-en-gegevensverwerking) 
   6. [Vector- en functieruimten](Vector-and-functionspaces) 
+
+External documentation such as past exams via: https://studie.wina-gent.be/studiehulp/opleiding/FYS
