@@ -18,6 +18,8 @@ _np.identity(x)_ returns an array of ones with the shape (x,x)
 
 _np.full(tuple1,x)_ returns an array of x with the shape of tuple1
 
+_np.exp(array1)_ returns an array where the elements are the exponential function evaluated in the elements of array1
+
 [**ARRAY INFORMATION**]
 
 _array1.dtype_ returns the type of the elements of array1
