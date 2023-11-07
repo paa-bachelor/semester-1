@@ -7,7 +7,7 @@ Co-Author: Barack-O-Llama
 
 ls | show files/subdirectories in current directory
 
-	ls | *show visible files/subdirectories*
+	ls | show visible files/subdirectories
 	ls -a | show all files/subdirectories
 
 cd | change the directory
