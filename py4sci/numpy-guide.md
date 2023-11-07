@@ -1,4 +1,4 @@
-#Numpy Guide
+# Numpy Guide
 	## ARRAYS
   		**ARRAY CREATION**
 			_np.array([sequence1],dtype=...)_ creates an array out of the elements of sequence 1, where dtype specifies the type of said elements
