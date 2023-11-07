@@ -19,6 +19,7 @@ _np.identity(x)_ returns an array of ones with the shape (x,x)
 _np.full(tuple1,x)_ returns an array of x with the shape of tuple1
 
 **ARRAY INFORMATION**
+
 _array1.dtype_ returns the type of the elements of array1
 
 _array1.ndim_ returns the dimension of array1 (0 = scalar, 1= vector, 2= matrix..)
