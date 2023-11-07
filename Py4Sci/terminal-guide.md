@@ -14,7 +14,7 @@ cd | change the directory
 
 	cd | go to root directory
 	cd .. | go to parent directory
-	cd <directory> | go to input directory
+	cd <directory>
 
 ## EDITING FILES
 
@@ -37,6 +37,7 @@ python | run python file
 jupyter lab | open jupyter lab locally
 
 	jupyter lab
+ 	jupyter lab <file.ipynb>
 
 ## GIT COMMANDS
 
