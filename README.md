@@ -7,4 +7,4 @@ Current courses:
   3. Python For Scientists [here](Py4Sci) .
   4. Kwantummechanica 1 [here](Quantum-physics-I) .
   5. Statistiek en gegevensverwerking [here](Statistiek-en-gegevensverwerking) .
-  6. Vector- en functieruimten [here](Vector- and function-spaces) .
+  6. [Vector- en functieruimten](Vector-and-functions-spaces) .
