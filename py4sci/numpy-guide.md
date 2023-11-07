@@ -1,6 +1,6 @@
 # Numpy Guide
 ## ARRAYS
-  **ARRAY CREATION**
+**ARRAY CREATION**
 _np.array([sequence1],dtype=...)_ creates an array out of the elements of sequence 1, where dtype specifies the type of said elements
 _np.linspace(a, b, c)_ returns an equally spaced array with lower- and upper limit a and b containing c(optional, default is 50) elements  
 _np.arange(a, b, c)_ returns an equally spaced array with lower- and upper limit a and b(b not in array) with step size c(optional, default is 1)
