@@ -7,23 +7,23 @@ Co-Author: Barack-O-Llama
 
 ls - show objects in current directory
 
-	[-a]	show hidden folders
+	[-a] - show hidden folders
 
 cd - change the directory
 
-	<>	go to root directory
-	<..>	go to parent directory
-	<directory>	go to input directory
+	<> - go to root directory
+	<..> - go to parent directory
+	<directory> - go to input directory
 
 ## EDITING FILES
 
 cat - read file
 
-	<file>	print file in terminal
+	<file> - print file in terminal
 
 nano - edit file
 
-	<file> open file in nano editor
+	<file> - open file in nano editor
 
 feh - view image
 
@@ -39,4 +39,4 @@ git clone - create copy of repository on your system
 
 git pull origin 
 
-	<branch>	update repository on your system
+	<branch> - update repository on your system
