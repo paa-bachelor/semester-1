@@ -10,7 +10,7 @@ _ls_ | show files/subdirectories in current directory
 	ls | show visible files/subdirectories
 	ls -a | show all files/subdirectories
 
-_cd_ | change the directory
+_cd_ | change directory
 
 	cd | go to root directory
 	cd .. | go to parent directory
