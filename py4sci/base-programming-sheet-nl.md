@@ -32,7 +32,7 @@ sorted(list1,key=None,reverse=Bool) construeert een nieuwe lijst in tegenstollin
   
 'x'.join(list1) converteert elk element uit list1 tot een string met 'x' tussen de elementen
 
--> Sets n Dictionaries
+**[Sets n Dictionaries]**
 
 dict1[obj1] = obj2
 
