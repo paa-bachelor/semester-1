@@ -7,6 +7,8 @@ _np.sqrt(x)_ returns the square root of x
 
 _np.roots(sequence1)_ returns an array of solutions to a polynomial which is defined by sequence1, where sequence1 is a sequence of descending coefficients of the polynomial
 
+_np.loadtxt(file)_ returns an array with data from the given file
+
 ## ARRAYS
 [**ARRAY CREATION**]
 
