@@ -7,7 +7,7 @@ _np.sqrt(x)_ returns the square root of x
 
 _np.roots(sequence1)_ returns an array of solutions to a polynomial which is defined by sequence1, where sequence1 is a sequence of descending coefficients of the polynomial
 
-_np.loadtxt(file)_ returns an array with data from the given file
+_np.loadtxt(file)_ returns an array with data from the given file, with optional arguments: _skiprows=int_ which skips the first _int_ rows before reading, default is 0. _delimiter=str1_ puts _str1_ between all data values, _unpack=Bool_ suppose the data has 3 values per datapoint ; if _unpack=True_ the method will return 3 seperate arrays consisting of each data point's first value, second value... default is False.
 
 ## ARRAYS
 [**ARRAY CREATION**]
