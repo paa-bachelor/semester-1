@@ -30,7 +30,7 @@ _cat_ | print and edit file
   	cat [file-1] [file-2] [...] > [file-redirect]    # print concatenated files in file-redirect
 
    	# APPENDING TO FILES (>>)
-    	cat >> [file]    # add input text to file (Ctrl-D to exit)
+	cat >> [file]    # add input text to file (Ctrl-D to exit)
 	cat [file] >> [file-redirect]    # add file to file-redirect
 	cat [file-1] [file-2] [...] >> [file-redirect]    # add concatenated files to file-redirect
 
