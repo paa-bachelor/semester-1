@@ -4,7 +4,7 @@ In this repository we will store files and assignments connected to the undergra
 Current courses:
   1. [Introductory Biophysics](biophysics) 
   2. [Experimenteren in de fysica en sterrenkunde II](experimenteren-2) 
-  3. [Python For Scientists](py4Sci) 
+  3. [Python For Scientists](py4sci) 
   4. [Kwantummechanica 1](kwantummechanica-1) 
   5. [Statistiek en gegevensverwerking](statistiek-en-gegevensverwerking) 
   6. [Vector- en functieruimten](vector-en-functieruimten) 
