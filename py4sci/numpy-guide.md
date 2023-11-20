@@ -50,7 +50,7 @@ _np.split(array1,x)_ returns a list of x(int) arrays, where array1 has been spli
 
 [**ONE-DIMENSIONAL INDEXING**]
 
-
+Suppose array1 is an array containing ndarrays, array[:,x] will return an array of the xth element of each ndarray in array1
 
 [**N-DIMENSIONAL INDEXING**]
 
