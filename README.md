@@ -1,7 +1,7 @@
 ## Physics and Astronomy: Theory of Everything
-In this repository we will store files and assignments connected to the bachelor degree in Physics and Astronomy at Ghent University. 
+In this repository we will store files and assignments connected to the 1st semester of the 2nd bachelor in Physics and Astronomy at Ghent University. 
 
-Current courses:
+Courses:
   1. [Introductory Biophysics](biophysics) 
   2. [Experimenteren in de fysica en sterrenkunde II](experimenteren-2) 
   3. [Python For Scientists](py4sci) 
